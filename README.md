@@ -16,6 +16,8 @@ A fully functional Amazon Clone built with React, Node.js, Express, and MongoDB.
 | Deploy     | Vercel (frontend) + Render (backend) |
 
 ---
+## 🌐 Live Project
+👉 [Click here to view live project](https://amazon-clone-ruddy-six.vercel.app)
 
 ## 📁 Project Structure
 
